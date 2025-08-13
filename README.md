@@ -1,1 +1,4 @@
-# MyRestaurant
+MyRestaurant
+
+Java + Swing + MySQL
+
